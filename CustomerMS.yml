@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: CustomerMS
+  datasource:
+    url: jdbc:mysql://localhost:3306/infytel-customer
+server:
+  port: 9200
