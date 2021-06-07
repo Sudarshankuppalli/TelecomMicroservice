@@ -2,4 +2,4 @@ spring:
   application:
     name: PlanMS
   datasource:
-    url: jdbc:mysql://localhost:3306/infytel-friend-family
+    url: jdbc:mysql://localhost:3306/infytel-plan
